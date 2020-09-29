@@ -1,0 +1,49 @@
+<div class="box">
+
+        <div class="ingBx">
+
+            <img src="imagen.jpg" alt="">
+
+        </div>
+
+        <div class="content">
+
+            <h2> Jonh Doe <br> <span>Creative Designer</span> </h2>
+
+        </div>
+
+    </div>
+
+
+    <div class="box">
+
+        <div class="ingBx">
+
+            <img src="imagen.jpg" alt="">
+
+        </div>
+
+        <div class="content">
+
+            <h2> Jonh Doe <br> <span>Creative Designer</span> </h2>
+
+        </div>
+
+    </div>
+
+
+    <div class="box">
+
+        <div class="ingBx">
+
+            <img src="imagen.jpg" alt="">
+
+        </div>
+
+        <div class="content">
+
+            <h2> Jonh Doe <br> <span>Creative Designer</span> </h2>
+
+        </div>
+
+    </div>
